@@ -1,10 +1,10 @@
 # Main Title
 main:
   header:
-    title : "Graysx Theme" # Title Text
-    description : "Aut Deleniti Solu Facilis Idlau imq Atque Ac Itaqu A Co Volup Nu Quaecu Nec Archite At." # Title Desc
+    title : "Soukaina OUAKKA" # Title Text
+    description : "Bienvenue sur mon portfolio ! Je suis une professionnelle de la formation avec plus de 5 ans d'expérience dans le domaine. J'ai travaillé dans divers secteurs tels que la formation professionnelle, le recrutement et la gestion administrative." # Title Desc
     button:
-      text: "Learn More" # Button Text
+      text: "PORTFOLIO" # Button Text
       url: "#about" # Button URL
 
 # About
@@ -13,7 +13,7 @@ about:
   desc: "Max Ducim Qua Labo Pa Adre Nam Ased Di Ullam Ess Num Minim Quorecu Re Iur Ipsam Autemo Autem Max Iurer Ut Enim Praese Ips Fugia Ne Dig Assumen Cul Ipsum Velit Magna Inl Odio Enimodi Nonve Sunti Tem Incidu Velqui Lauda Assume Volupt Nih Es Autem Officia Culpa Impedit Harum Blandi Si Quis Dol Facilis Verodo Tot Quib Quoden"
   button:
     enable: true
-    text: "Button"
+    text: "PORTFOLIO"
     url: "#"
   image: "assets/img/ipad.png"
 
