@@ -1,7 +1,7 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://soukainaouakka.netlify.app'
 languageCode = 'en-us'
 theme = 'graysx'
-title = 'Example Graysx Site'
+title = 'Soukaina'
 
 ## Site Settings
 [params]
