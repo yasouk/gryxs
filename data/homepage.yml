@@ -5,7 +5,7 @@ main:
     description : "Bienvenue sur mon portfolio ! Je suis une professionnelle de la formation avec plus de 5 ans d'expérience dans le domaine. J'ai travaillé dans divers secteurs tels que la formation professionnelle, le recrutement et la gestion administrative." # Title Desc
     button:
       text: "PORTFOLIO" # Button Text
-      url: "#about" # Button URL
+      url: "https://docs.google.com/document/d/1P_5wvKQhvyp75LsvIyg37ExU6WlTbAX-0hKcc1k5LAQ/edit?usp=sharing" # Button URL
 
 # About
 about:
