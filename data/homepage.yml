@@ -6,6 +6,7 @@ main:
     button:
       text: "PORTFOLIO" # Button Text
       url: "https://docs.google.com/document/d/1P_5wvKQhvyp75LsvIyg37ExU6WlTbAX-0hKcc1k5LAQ/edit?usp=sharing" # Button URL
+      target: "_blank" # Open link in new window or tab
 
 # About
 about:
