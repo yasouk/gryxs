@@ -6,6 +6,7 @@ main:
     button:
       text: "PORTFOLIO" # Button Text
       url: "https://docs.google.com/document/d/1P_5wvKQhvyp75LsvIyg37ExU6WlTbAX-0hKcc1k5LAQ/edit?usp=sharing" # Button URL
+      target: "_blank" # Open link in new window or tab
 
 # About
 about:
@@ -14,19 +15,20 @@ about:
   button:
     enable: true
     text: "PORTFOLIO"
-    url: "#"
+    url: "https://docs.google.com/document/d/1P_5wvKQhvyp75LsvIyg37ExU6WlTbAX-0hKcc1k5LAQ/edit?usp=sharing" # Button URL
+    target: "_blank" # Open link in new window or tab
   image: "assets/img/ipad.png"
 
 projects:
   card1:
-    title: "Graysx"
+    title: "RH"
     text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
     img: "assets/img/bg-masthead.jpg"
   card2:
-    title: "Graysx"
+    title: "manager"
     text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
     img: "assets/img/demo-image-01.jpg"
   card3:
-    title: "Graysx"
+    title: "responsable formation"
     text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
     img: "assets/img/demo-image-02.jpg"
